@@ -1,7 +1,7 @@
 #include "hash_tables.h"
 /**
- * hash_table_print - This prints hashtable
- * @ht: Indicate the hash table you want to print
+ * hash_table_print - prints hashtable
+ * @ht: the hash table you want to print
  */
 void hash_table_print(const hash_table_t *ht)
 {

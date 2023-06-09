@@ -1,1 +1,1 @@
-ALX C Hash tables project 
+AlX hash tables project for C
